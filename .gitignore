@@ -1,0 +1,10 @@
+# Dependency directory
+node_modules
+
+# Editors
+.idea
+.vscode
+
+# Ignore built ts files
+dist/**/*
+
